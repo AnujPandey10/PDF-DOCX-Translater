@@ -1,0 +1,5 @@
+{
+  "name": "LinguaDoc AI",
+  "description": "Professional document translation tool preserving formatting using Gemini AI. Supports PDF translation with side-by-side comparison.",
+  "requestFramePermissions": []
+}
